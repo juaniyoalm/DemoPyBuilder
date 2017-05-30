@@ -1,0 +1,8 @@
+Complejos.py
+setup.py
+ComplexNumberProjectDemo.egg-info/PKG-INFO
+ComplexNumberProjectDemo.egg-info/SOURCES.txt
+ComplexNumberProjectDemo.egg-info/dependency_links.txt
+ComplexNumberProjectDemo.egg-info/namespace_packages.txt
+ComplexNumberProjectDemo.egg-info/top_level.txt
+ComplexNumberProjectDemo.egg-info/zip-safe

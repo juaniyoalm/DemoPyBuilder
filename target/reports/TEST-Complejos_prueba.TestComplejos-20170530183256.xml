@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="Complejos_prueba.TestComplejos-20170530183256" skipped="0" tests="4" time="0.000">
+	<testcase classname="Complejos_prueba.TestComplejos" name="test_multiplicar" time="0.000"/>
+	<testcase classname="Complejos_prueba.TestComplejos" name="test_prueba" time="0.000"/>
+	<testcase classname="Complejos_prueba.TestComplejos" name="test_restar" time="0.000"/>
+	<testcase classname="Complejos_prueba.TestComplejos" name="test_sumar" time="0.000"/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
