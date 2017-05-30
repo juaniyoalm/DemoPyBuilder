@@ -3,14 +3,13 @@ python:
   - "3.4"
   - "3.5"
   - "3.6"
-  - "3.7"
 # command to install dependencies
 install:
   - pip install pybuilder coveralls
   - pyb -v install_dependencies
 
-before_deploy:
-  - pyb -v
+# before_deploy:
+#   - pyb -v
 
 # command to run tests
 script: pyb -v
