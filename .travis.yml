@@ -7,6 +7,7 @@ python:
 install:
   - pip install pybuilder coveralls
   - pyb -v install_dependencies
+  - pip install -r requirements.txt
 
 # before_deploy:
 #   - pyb -v
